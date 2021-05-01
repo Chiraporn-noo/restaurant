@@ -93,7 +93,6 @@ body{
 h1,h2,h3,h4,p,ul{
   margin: 0;
 }
-
 ul{
   padding: 0;
   list-style: none;
@@ -326,6 +325,10 @@ img{
 
 .services__description{
   padding: 0 1.5rem;
+}
+
+.services__position{
+  padding: 0 1.0rem;
 }
 
 /*========== MENU ==========*/
